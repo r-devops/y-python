@@ -20,3 +20,5 @@ y2 = "World"
 
 print(x2+y2)
 print(x2+" "+y2)
+
+print(4*x2)
