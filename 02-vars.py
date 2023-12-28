@@ -13,3 +13,9 @@ print(x1+y1)
 print(x1/z1)
 print(x1//z1)
 print(y1//x1)
+
+
+x2 = "Hello"
+y2 = "World"
+
+print(x2+y2)
