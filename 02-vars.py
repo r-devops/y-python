@@ -22,3 +22,4 @@ print(x2+y2)
 print(x2+" "+y2)
 
 print(4*x2)
+print('1\2')
