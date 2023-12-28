@@ -19,3 +19,4 @@ x2 = "Hello"
 y2 = "World"
 
 print(x2+y2)
+print(x2+" "+y2)
