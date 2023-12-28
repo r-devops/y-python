@@ -12,4 +12,4 @@ z1 = 3.5
 print(x1+y1)
 print(x1/z1)
 print(x1//z1)
-print(y1/x1)
+print(y1//x1)
