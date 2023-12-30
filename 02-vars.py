@@ -54,5 +54,8 @@ print(sum(x6))
 x7=(1,2,3)
 x7.append(4)
 
+# Map / Dict
+x8 = dict(fruit_name = 'apple', count = 10)
+print(x8)
 
 
