@@ -6,4 +6,11 @@ def samplef():
 #
 x = 10
 samplef()
+
+
+def sample1():
+    print('ok')
+    return 'OK'
+
+y = sample1()
 print(y)
