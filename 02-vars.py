@@ -52,7 +52,7 @@ print(sum(x6))
 # List is mutable, It can be modified
 # Tuple is a list with immutable property
 x7=(1,2,3)
-x7.append(4)
+#x7.append(4)
 
 # Map / Dict
 x8 = dict(fruit_name = 'apple', count = 10)
