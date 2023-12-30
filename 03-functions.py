@@ -23,4 +23,14 @@ def addition(x,y):
 print(addition(10,20))
 print(addition.__doc__)
 
+def msg1():
+    print('Hello World')
+
+def msg2():
+    print('Hello World')
+    return None
+
+msg1()
+msg2()
+
 
