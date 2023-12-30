@@ -36,3 +36,8 @@ msg2()
 print(msg1())
 print(msg2())
 
+def sample2():
+    global x
+    x = 10
+
+print(x)
