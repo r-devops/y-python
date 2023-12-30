@@ -49,7 +49,10 @@ print(max(x6))
 print(min(x6))
 print(sum(x6))
 
-
+# List is mutable, It can be modified
+# Tuple is a list with immutable property
+x7=(1,2,3)
+x7.append(4)
 
 
 
