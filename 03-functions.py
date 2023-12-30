@@ -33,4 +33,6 @@ def msg2():
 msg1()
 msg2()
 
+print(msg1())
+print(msg2())
 
