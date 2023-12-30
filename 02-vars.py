@@ -57,5 +57,6 @@ x7=(1,2,3)
 # Map / Dict
 x8 = dict(fruit_name = 'apple', count = 10)
 print(x8)
+print(x8('count'))
 
 
