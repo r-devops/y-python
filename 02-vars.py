@@ -23,3 +23,10 @@ print(x2+" "+y2)
 
 print(4*x2)
 print(r'1\2')
+
+# Normal
+x2 = 10
+
+# List
+x3 = [10, 20 , 30 ]
+print(x3)
