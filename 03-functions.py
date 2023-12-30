@@ -14,3 +14,9 @@ def sample1():
 
 y = sample1()
 print(y)
+
+def addition(x,y):
+    z = x + y
+    return z
+
+print(addition(10,20))
