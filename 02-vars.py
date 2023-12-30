@@ -39,6 +39,17 @@ print(x5)
 x5.append(6)
 print(x5)
 
+print(len(x5))
+
+x6=[1,2,3,4,3,3]
+print(x6.count(3))
+
+print(x6.index(1))
+print(max(x6))
+print(min(x6))
+print(sum(x6))
+
+
 
 
 
