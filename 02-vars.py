@@ -31,3 +31,14 @@ x2 = 10
 x3 = [10, 20 , 30 ]
 print(x3)
 print(x3[1])
+
+x4 = [ 'some string', 100, True ]
+x5 = [ [1,2], [3,4], 5]
+
+print(x5)
+x5.append(6)
+print(x5)
+
+
+
+
