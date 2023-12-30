@@ -16,7 +16,11 @@ y = sample1()
 print(y)
 
 def addition(x,y):
+    """This following funtion will do addition of two given values"""
     z = x + y
     return z
 
 print(addition(10,20))
+print(addition.__doc__)
+
+
