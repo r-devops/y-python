@@ -58,5 +58,8 @@ x7=(1,2,3)
 x8 = dict(fruit_name = 'apple', count = 10)
 print(x8)
 print(x8.get('count'))
+x9 = dict(price = 20)
+x10 = {x8, x9}
+print(x10)
 
 
