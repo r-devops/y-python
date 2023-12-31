@@ -23,5 +23,16 @@ elif y <= 30:
 else:
     print('Pass')
 
+# Logical operators
+# and
+# or
+# not
+
+if y > 30 and y < 70:
+    print('Pass')
+elif y > 70:
+    print('Distinction')
+else:
+    print('False')
 
 
