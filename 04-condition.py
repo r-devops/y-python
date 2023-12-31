@@ -28,6 +28,8 @@ else:
 # or
 # not
 
+y=20
+
 if y > 30 and y < 70:
     print('Pass')
 elif y > 70:
