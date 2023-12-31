@@ -35,6 +35,6 @@ if y > 30 and y < 70:
 elif y > 70:
     print('Distinction')
 else:
-    print('False')
+    print('Fail')
 
 
