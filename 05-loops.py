@@ -19,3 +19,11 @@ while(count > 0):
     count = count -1
     print("Count - ", count)
 
+# while supports else as well
+
+count = 10
+while(count > 0):
+    count = count -1
+    print("Count - ", count)
+else:
+    print("End of Loop")
