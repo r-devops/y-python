@@ -6,5 +6,6 @@
 # for var in values:
 #   statements
 
-for fruit in ["apple", "banana", "orange"]:
+fruits = ["apple", "banana", "orange"]
+for fruit in fruits:
     print("Fruit Name -", fruit)
