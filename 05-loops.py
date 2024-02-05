@@ -9,3 +9,13 @@
 fruits = ["apple", "banana", "orange"]
 for fruit in fruits:
     print("Fruit Name -", fruit)
+
+# Syntax - While Loop
+# while (expression):
+#   statements
+
+count = 10
+while(count > 0):
+    count = count -1
+    print("Count - ", count)
+
