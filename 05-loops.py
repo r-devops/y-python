@@ -7,4 +7,4 @@
 #   statements
 
 for fruit in ["apple", "banana", "orange"]:
-    print("Fruit Name - %s", fruit)
+    print("Fruit Name -", fruit)
